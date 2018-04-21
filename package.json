@@ -1,0 +1,26 @@
+{
+  "name": "learning-ECMAScript-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jasmine-node": "^1.14.5"
+  },
+  "devDependencies": {
+    "jasmine": "^3.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BelyOleg/learning-ECMAScript-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BelyOleg/learning-ECMAScript-/issues"
+  },
+  "homepage": "https://github.com/BelyOleg/learning-ECMAScript-#readme"
+}
